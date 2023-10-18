@@ -9,5 +9,4 @@ How to start the DropwizardWebService application
 
 Health Check
 ---
-
 To see your applications health enter url `http://localhost:8081/healthcheck`
